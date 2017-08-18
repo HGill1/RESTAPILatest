@@ -1,0 +1,31 @@
+﻿{
+  "type": "IntentRequest",
+   "id": "EdwRequestId.9e45c25b-7ddb-4ded-b0aa-f4ddccbb4cce",
+   "locale": "en-GB",
+   "timestamp": "2017-05-15T09:48:39.8073479+01:00",
+   "source": "Alexa",
+   "session": {
+     "id": "SessionId.fada60cc-60c5-43ca-acad-b7108adc4335",
+     "isNew": true
+   },
+   "user": {
+     "id": "amzn1.ask.account.AHW3SBAMKI7A3T24W2E43JUESYUVJ4AD6HXRADHR7P3PFEOL7NDHNZUBY56C7VH7XLEE4L3",
+     "accessToken": "eyJhbGciOiJSUzI1NiJ9.eyJqdGkiOiJvYXV0aC10b2tlbi1mMWVhNzBkMy1mZjBmLTRkOTEtOGQ1Yi0zM.dhNqo1DbSkMWubSpKGjgn273nN",
+     "consentToken": "E4L3YSFW235CQWTHYSI6DS7QCJ47ZDTF5SFQCSMJMC"
+   },
+   "context": {
+         "attributes": {
+                "PinVerified": true
+     }
+   },
+   "intent": {
+     "name": "LaunchRequest",
+   },
+   "device": {
+     "address": "51 Hoxton Square, London, N1 6PB"
+   },
+   "rawInput": {
+     "input": "how much is my pension worth",
+     "confidenceLevel": 0.8
+   }
+}
